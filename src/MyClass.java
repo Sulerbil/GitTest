@@ -5,6 +5,8 @@ public class MyClass {
         System.out.println("ucuncu commit");
         System.out.println("Sena'nin commit'i");
         System.out.println("benim kodum");
+        System.out.println("Sena'nin conflict'i");
+
         
     }
 }
