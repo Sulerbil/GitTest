@@ -6,6 +6,7 @@ public class MyClass {
         System.out.println("Sena'nin commit'i");
         System.out.println("benim kodum");
         System.out.println("Sena'nin conflict'i");
+        System.out.println("Sena'nin yeni kodu");
 
         System.out.println("son kodum");
     }
