@@ -7,6 +7,6 @@ public class MyClass {
         System.out.println("benim kodum");
         System.out.println("Sena'nin conflict'i");
 
-        
+        System.out.println("son kodum");
     }
 }
